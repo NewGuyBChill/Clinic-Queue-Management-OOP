@@ -1,0 +1,4 @@
+id,nama,umur,noTelp,poli,jadwalPraktik,kuota,terisi
+D01,dr. Budi Santoso,42,08112233445,Poli Umum,Senin-Jumat 08:00-12:00,15,2
+D02,drg. Siti Aminah,35,08198765432,Poli Gigi,Senin-Rabu 13:00-16:00,10,0
+D03,dr. Hendra Sp.A,48,08133344455,Poli Anak,Selasa-Kamis 09:00-13:00,12,0
