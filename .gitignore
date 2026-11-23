@@ -1,0 +1,19 @@
+# Folder dan file hasil compile Java
+bin/
+out/
+target/
+*.class
+*.jar
+*.war
+
+# File konfigurasi IDE / Editor
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# File sampah bawaan OS
+.DS_Store
+Thumbs.db
