@@ -1,19 +1,8 @@
-# Folder dan file hasil compile Java
+# Abaikan semua file hasil compile (.class) di folder bin
 bin/
-out/
-target/
 *.class
-*.jar
-*.war
 
-# File konfigurasi IDE / Editor
+# Abaikan file konfigurasi editor & OS
 .vscode/
-.idea/
-*.iml
-.classpath
-.project
-.settings/
-
-# File sampah bawaan OS
 .DS_Store
 Thumbs.db
